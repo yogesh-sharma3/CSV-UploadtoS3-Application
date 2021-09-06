@@ -1,0 +1,6 @@
+paths:
+  /welcome:                               # path of the user from your endpoint
+    post:                                        # endpoint request type (post request)
+      summary: Welcome
+      tags:                                      # Tag property
+        - Welcome
